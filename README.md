@@ -16,6 +16,8 @@ Login On the website is a login page. Users can login with their Username(Email)
 
 Detail page  This page Displayes the list of PDFs uploaded and avalable in the system. The user can view his/her documents and upload new documents. The uploaded documents can be deleted.
 
+Refer fam_icon_action image in public folder to understand actions assosiated with icons.
+
 
 About the system design and code
 System is fully OOP and few design patterns are used with MVC architecture. I used Mysql database with 3 tables. (users, tokens & country) tokens table is used to store token needed to verify the account and password reset. It is related with users table with FK user_id.
