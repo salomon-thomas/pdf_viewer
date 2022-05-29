@@ -1,5 +1,4 @@
-Machine Test
-This is a machine test project done using Laravel 8 PHP framework.
+This is a PDF viewer project done using Laravel 8 PHP framework.
 
 Project Scope
 Register The visitor can register himself here, by leaving the following information:
