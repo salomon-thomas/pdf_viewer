@@ -1,4 +1,3 @@
-Machine Test
 This is a machine test project done using Laravel 8 PHP framework.
 
 Project Scope
